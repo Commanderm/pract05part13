@@ -33,5 +33,5 @@ public abstract class Shape {
 
     abstract double getArea();
 
-    public abstract double getPerimetr();
+    public abstract double getPerimeter();
 }
