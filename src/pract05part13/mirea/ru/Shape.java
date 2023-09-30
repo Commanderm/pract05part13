@@ -1,5 +1,7 @@
 package pract05part13.mirea.ru;
 
+import java.lang.String;
+
 public abstract class Shape {
     protected String color;
     protected boolean filled;
